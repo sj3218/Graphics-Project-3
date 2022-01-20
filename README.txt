@@ -58,6 +58,7 @@ In "Lighting" tap,
 
 b.
 If you click minimize in window, it happens error.
+You have to add glm files in ThirdParty file.
 
 c.
 I completed all of parts in this assignment.
